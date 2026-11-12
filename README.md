@@ -1,109 +1,86 @@
-# D5_Samh_VintageRacks
-
+Vintage Racks – Festival Project
 Cross media design I
 
-Vintage Racks – Cross media design I
-
 Name: Ines Samh
+
 Festival name: Vintage Racks
+
 Festival dates: 13 & 14 March
 
-About the festival
+About the Festival
 
 Vintage Racks is a second-hand fashion festival that inspires people to discover unique clothing, experiment with different styles and give pre-loved clothes a new life.
 
-The festival's slogan is:
-
-"Your budget called. We answered."
+Festival slogan: "Your budget called. We answered."
 
 The visual identity uses a colourful vintage-inspired style, with bright colours, playful clothing illustrations and bold typography.
 
-1. Touchpoint – Festival poster
+1. Touchpoint – Festival Poster
 
-File
+Files:
 
-Channel
+1. poster touchpoint na feedback.ai
 
-Specifications
+Channel: Printed poster in public spaces and second-hand shops in Brussels.
 
-poster touchpoint na feedback.ai
+Format: Adobe Illustrator.
 
-Printed poster in public spaces and second-hand shops
+3. poster touchpoint na feedback.png
 
-Adobe Illustrator source file
+Channel: Digital preview.
 
-poster touchpoint na feedback.png
-
-Digital preview
-
-PNG, 1960 × 1132 px
+Format: PNG, 1960 x 1132 px
 
 The poster is the main touchpoint of the festival. It attracts attention and introduces visitors to Vintage Racks through its visual identity, festival name, slogan and date.
 
-How to use the touchpoint
+How to use the touchpoint: open the Adobe Illustrator file, and export the poster to the required print format. Print and display it in selected public spaces and second-hand shops.
 
-Open the Adobe Illustrator file, and export the poster to the required print format.
+2. Campaign – Campaign Assets
 
-Print and display it in public spaces in Brussels and second-hand shops in the area.
+Files:
 
-2. Campaign – Campaign assets
+1. non-conventional touchpoint.jpg
 
-File
+Channel: Mirror advertisement in a second-hand shop.
 
-Channel
+Specifications: JPG, 2048 x 1365 px
 
-Specifications
+3. touchpoint sociale media.jpg
 
-[mirror_advertisement]
+Channel: social media, with a hashtag
 
-Mirror advertisement in a second-hand shop
+Specifications: JPG, 736 x 1166 px
 
-[Final format and dimensions]
+5. stylists.jpg
 
-[outfit_challenge]
+Channel: at the festival itself.
 
-Instagram story / social media
+Specifications: JPG, 735 x 919 px
 
-[Final format and dimensions]
+3)touchpoint upcycling workshop.jpg
 
-[upcycling_workshop]
+Channel: workshop at the festival itself.
 
-Social media / festival promotion
+Specifications: JPG, 2048 x 1365 px
 
-[Final format and dimensions]
+Campaign Activities
 
-Campaign activities
+Mirror advertisement: A mirror in a second-hand shop features the Vintage Racks name, slogan and QR code with stickers.Encouraging people who already like shopping second-hand to discover the festival.
 
-Mirror advertisement: A mirror in a second-hand shop features the Vintage Racks name, slogan and QR code, encouraging visitors to discover the festival.
+Outfit challenge: Visitors share an outfit made from second-hand or upcycled clothing using #VintageRacks on social media. Ten outfits are selected for a public vote. The winner receives a budget for the next Vintage Racks festival.
 
-Outfit challenge: Visitors share an outfit made from second-hand or upcycled clothing using #VintageRacks. Ten outfits are selected for a public vote. The winner receives a budget for the next festival edition.
-
-Styling support: Stylists help visitors find clothes and create outfits during the festival.
+Stylists: Stylists help visitors at the festival find clothes and create outfits if they are feeling unsure or lost.
 
 Upcycling workshop: Visitors customise and redesign old clothes with support from the festival team.
 
-3. Motion – Motion piece
+3. Motion – Motion Piece
 
-File
+File: animatie video logo.cv
 
-Channel
+Channel: social media
 
-Specifications
+Specifications: Cavalry, 1920 x 1080 px
 
-[motion_piece].mp4
+The motion piece promotes the festival by the animation of the logo.
 
-[Social media / festival screen]
-
-MP4, 5–30 seconds
-
-The motion piece follows the Vintage Racks visual identity and promotes the festival.
-
-Important notes
-
-All campaign materials follow the Vintage Racks visual identity.
-
-The original design files and final exported files are included in the repository.
-
-Video files are submitted separately on Canvas and are not stored in this GitHub repository.
-
-Any AI-generated images are labelled and credited where required.
+> > > > > > > 9a923659a6301b80da7354a3859ba5521c2d5d09
