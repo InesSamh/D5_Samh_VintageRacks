@@ -82,5 +82,3 @@ Channel: social media
 Specifications: Cavalry, 1920 x 1080 px
 
 The motion piece promotes the festival by the animation of the logo.
-
-> > > > > > > 9a923659a6301b80da7354a3859ba5521c2d5d09
