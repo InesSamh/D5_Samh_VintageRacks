@@ -1,7 +1,10 @@
 Vintage Racks – Festival Project
 Cross media design I
+
 Name: Ines Samh
+
 Festival name: Vintage Racks
+
 Festival dates: 13 & 14 March
 
 About the Festival
