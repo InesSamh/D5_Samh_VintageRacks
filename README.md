@@ -41,7 +41,7 @@ Files:
 
 1. non-conventional touchpoint.jpg
 
-Channel: Mirror advertisement in a second-hand shop.
+Channel: Mirror advertisement in second-hand shops. 
 
 Specifications: JPG, 2048 x 1365 px
 
@@ -65,7 +65,7 @@ Specifications: JPG, 2048 x 1365 px
 
 Campaign Activities
 
-Mirror advertisement: A mirror in a second-hand shop features the Vintage Racks name, slogan and QR code with stickers.Encouraging people who already like shopping second-hand to discover the festival.
+Mirror advertisement: Mirrors in second-hand shops that feature the Vintage Racks name, slogan and QR code with stickers. Encouraging people who already like shopping second-hand to discover the festival.
 
 Outfit challenge: Visitors share an outfit made from second-hand or upcycled clothing using #VintageRacks on social media. Ten outfits are selected for a public vote. The winner receives a budget for the next Vintage Racks festival.
 
